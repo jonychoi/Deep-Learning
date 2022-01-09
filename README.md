@@ -12,7 +12,7 @@ End to End study scripts of Deep Learning by implementing code practice with Pyt
 
 **1. Tensor Manipulation**
 
-    - 1-1. Tensor Manipulation
+    1-1. Tensor Manipulation
 
 **2. Linear regression**
 
