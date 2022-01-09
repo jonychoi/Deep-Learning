@@ -11,13 +11,24 @@ End to End study scripts of Deep Learning by implementing code practice with Pyt
 ### Part 1: Machine Learning & PyTorch Basic 
 
 1. Tensor Manipulation
+    - 1-1. Tensor Manipulation
 2. Linear regression
+    - 2-1. Linear regression
 3. Gradient Descent
+    - 3-1. Gradient Descent
 4. Multivariable Linear regression
+    - 4-1. Multivariable Linear regression
+    - 4-2. Load Data & Multivariate Linear Regression
 5. Logistic Regression
+    - 5-1. Logistic Regression
 6. Softmax Classification
+    - 6-1. Softmax Classification
+    - 6-2. Fancy Softmax Classification
 7. Learning Rate & Data Preprocessing
+    - 7-1. Learning Rate & Data Preprocessing
 8. MNIST Introduction
+    - 8-1. MNIST Introduction
+
 
 ### Part 2: Neural Network
 
