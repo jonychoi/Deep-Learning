@@ -6,12 +6,6 @@ End to End study scripts of Deep Learning by implementing code practice with Pyt
 
 ---
 
-## Contributions/Comments
-
-Always welcome your participation. Please write comments or leave pull requests.
-
-Always welcome your comments and pull requests
-
 ## Index
 
 ### Part 1: Machine Learning & PyTorch Basic 
@@ -40,7 +34,7 @@ Always welcome your comments and pull requests
     - 11.4~5. Dropout
     - 11.6~7. Batch Normalization
 
-### PART 3: Convolutional Neural Network
+### Part 3: Convolutional Neural Network
 
 12. Convolutional Neural Network
 
