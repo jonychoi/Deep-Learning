@@ -1,4 +1,4 @@
-# Deep-Learning-By-Torch
+# Awesome-Deep-Learning-By-Torch
 
 ### Jonathan Choi 2021
 
