@@ -1,4 +1,4 @@
-# Awesome-Deep-Learning
+# Deep Learning by Choi
 
 ### Jonathan Choi 2021
 
